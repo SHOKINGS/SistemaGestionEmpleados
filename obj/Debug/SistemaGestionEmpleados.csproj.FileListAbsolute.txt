@@ -1,0 +1,15 @@
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\bin\Debug\SistemaGestionEmpleados.exe.config
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\bin\Debug\SistemaGestionEmpleados.exe
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\bin\Debug\SistemaGestionEmpleados.pdb
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.csproj.AssemblyReference.cache
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.AddEmpleado.resources
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Form1.resources
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.MainForm.resources
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Panel.resources
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Properties.Resources.resources
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.RegistroFormulario.resources
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Salario.resources
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.csproj.GenerateResource.cache
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.exe
+C:\Users\Spartan\source\repos\SistemaGestionEmpleados\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.pdb
